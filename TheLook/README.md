@@ -30,6 +30,22 @@ A comprehensive e-commerce data analytics and forecasting dashboard built using 
 
 ---
 
+## 🗄️ Data Model & Technical Details
+
+### Data Model (Star Schema)
+> Relational tables connected in Power Pivot to handle relationships smoothly.
+![Data Model](Model.jpg)
+
+### DAX Measures
+> Custom calculations and KPIs built to track business metrics.
+![Measures](Measures.jpg)
+
+### Forecast Analysis
+> Detailed daily units and 90-day ETS forecast with 95% confidence bands.
+![Forecast Units](ForecastUnits.jpg)
+
+---
+
 ## Tools & Technologies Used
 
 * **Excel:** As the primary platform for building interactive PivotTables, PivotCharts, and dashboards.
