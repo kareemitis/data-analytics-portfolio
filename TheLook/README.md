@@ -22,11 +22,11 @@ A comprehensive e-commerce data analytics and forecasting dashboard built using 
 
 ### 4. Financials & Return Page
 > Deep dive into financial performance, profit margins, AOV, and return rates.
-![Financials & Return](03_Financials_&_Return.jpg)
+![Financials & Return](03_Financials&Return.jpg)
 
 ### 5. Inventory & Forecast Page
 > Monitoring inventory stock units, distribution centers, and 90-day demand forecasts.
-![Inventory & Forecast](04_Inventory_&_Forecast.jpg)
+![Inventory & Forecast](04_Inventory&Forecast.jpg)
 
 ---
 
