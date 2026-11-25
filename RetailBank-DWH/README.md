@@ -5,7 +5,7 @@ An end-to-end data warehouse using SQL Server, starting from raw CSV files and e
 ---
 
 ## 📊 Demo & Overview
-- **LinkedIn Post:** 
+- **LinkedIn Post:** https://lnkd.in/p/eimqnFRU
 - **SQL Scripts & Model:** Includes Bronze validation, Silver transformation, Gold star schema scripts, and schema diagram.
 - **Power BI Report:** Connected to the Gold layer with a 4-page interactive dashboard.
 
